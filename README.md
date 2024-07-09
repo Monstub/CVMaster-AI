@@ -78,4 +78,4 @@ streamlit run app.py
 
 ## Feedback
 
-We value your feedback! If you encounter any issues or have suggestions for improvements, please create an issue in the project repository. Your input helps us enhance CVMaster AI and provide a better experience for all users.
+If you encounter any issues or have suggestions for improvements, please create an issue in the project repository.
